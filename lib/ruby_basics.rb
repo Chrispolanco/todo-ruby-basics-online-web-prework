@@ -10,7 +10,8 @@ def argue
   #{argue}
 end
 
-def greeting
+def greeting (name)
+  puts "Hello #{name}"
 
 end
 
