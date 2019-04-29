@@ -20,7 +20,7 @@ return "Nice"
 end
 
 def last_evaluated_value
-
+"Ex
 end
 
 def pizza_party
