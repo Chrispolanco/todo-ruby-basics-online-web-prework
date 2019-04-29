@@ -10,8 +10,8 @@ def argue (phrase = "I'm right and you are worng!")
   phrase
 end
 
-def greeting (name)
-  puts "Hello #{name}"
+def greeting (greeting = "Hi there", name))
+  puts "greeting #{name}"
 
 end
 
