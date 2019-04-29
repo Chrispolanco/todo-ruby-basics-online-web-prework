@@ -10,8 +10,8 @@ def argue (argue)
   #argue
 end
 
-def greeting (name)
-  puts "Hello #{name}"
+def greeting (name, language = "none")
+  puts "Hello #{name}, what's #{language} do you speak?"
 
 end
 
